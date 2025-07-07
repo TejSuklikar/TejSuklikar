@@ -15,7 +15,7 @@ Computer Science and Linguistics student at the University of Maryland, blending
 ### 🛠️ Skills  
 
 **Languages**  
-Python · JavaScript / TypeScript · HTML/CSS · Java · R · SQL · Go  
+Java · Python · JavaScript/TypeScript · C · C++ · R · SQL · HTML/CSS · Go · OCaml · Rust · Assembly · Go  
 
 **Frameworks & Libraries**  
 React.js · Next.js · Flask · FastAPI · scikit-learn · pandas · TensorFlow · Keras · PyTorch · NumPy · LangChain  
