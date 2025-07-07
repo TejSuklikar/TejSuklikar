@@ -1,7 +1,7 @@
 ## Hi 👋 My name is Tej Suklikar  
 **Machine Learning Developer & Full-Stack Engineer**
 
-Computer Science and Linguistics student at the University of Maryland, blending machine learning with product thinking to build tools that solve real problems. I work across AI systems, full-stack applications, and intelligent infrastructure, with a focus on building tools that turn complex technologies into practical, real-world solutions.
+Computer Science and Linguistics student at the University of Maryland focused on building intelligent, user-centered tools that blend machine learning with product thinking. I work across AI systems, full-stack development, and backend infrastructure to create software that’s both technically robust and practically useful.
 
 - 🌍 Based in San Carlos, CA  
 - 🏢 Software Engineering Intern @ **Anoki AI** – building internal systems within the Machine Learning team to support Anoki’s AI-powered *ContextIQ* platform and streamline content operations at scale  
