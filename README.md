@@ -3,7 +3,7 @@
 
 Computer Science and Linguistics student at the University of Maryland focused on building intelligent, user-centered tools that blend machine learning with product thinking. I work across AI systems, full-stack development, and backend infrastructure to create software that’s both technically robust and practically useful.
 
-- 🌍 Based in San Carlos, CA  
+- 🌍 Based in San Francisco, CA  
 - 🏢 Software Engineering Intern @ **Anoki AI** – building internal systems within the Machine Learning team to support Anoki’s AI-powered *ContextIQ* platform and streamline content operations at scale  
 - 🌐 Explore my work at [tej.suklikar.org](https://tej.suklikar.org)  
 - 🤖 Passionate about **Machine Learning**, **Applied NLP**, and **Agentic Systems**  
