@@ -15,13 +15,13 @@ Computer Science and Linguistics student at the University of Maryland focused o
 ### 🛠️ Skills  
 
 **Languages**  
-Java · Python · JavaScript/TypeScript · C · C++ · R · SQL · HTML/CSS · Go · OCaml · Rust · Assembly · Go  
+Java · Python · JavaScript/TypeScript · C · C++ · R · SQL · HTML/CSS · Go · OCaml · Rust · CUDA · AVR Assembly 
 
 **Frameworks & Libraries**  
-React.js · Next.js · Flask · FastAPI · scikit-learn · pandas · TensorFlow · Keras · PyTorch · NumPy · LangChain  
+React.js · Vite · Next.js · Flask · FastAPI · scikit-learn · pandas · TensorFlow · Keras · PyTorch · FastAPI · NumPy · LangChain  
 
 **Tools & Technologies**  
-AWS · Azure · Docker · Kubernetes · MySQL · PostgreSQL · Jupyter · MongoDB · UNIX/Linux · Git  
+AWS · Azure · Docker · Kubernetes · MySQL · PostgreSQL · Redis · Jupyter · MongoDB · UNIX/Linux · Git  
 
 ---
 
