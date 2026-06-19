@@ -4,7 +4,7 @@
 Computer Science and Linguistics student at the University of Maryland focused on building intelligent, user-centered tools that blend machine learning with product thinking. I work across AI systems, full-stack development, and backend infrastructure to create software that’s both technically robust and practically useful.
 
 - 🌍 Based in San Francisco, CA  
-- 🏢 Machine Learning Engineering Intern @ **Anoki AI** 
+- 🏢 SDE Intern @ **Amazon Web Services (AWS)** 
 - 🌐 Explore my work at [tej.suklikar.org](https://tej.suklikar.org)  
 - 🤖 Passionate about **Machine Learning**, **Applied NLP**, and **Agentic Systems**  
 - 🤝 Open to collaborations in **ML product development**, **multi-agent workflows**, and **applied AI research**  
